@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 💬 Ask me about anything!
-- 📫 How to reach me: don't. Thats the catch!
-- 😄 Pronouns: ???
-- ⚡ Fun fact: I'm on the internet too much
+###- 💬 Ask me about anything!
+###- 📫 How to reach me: don't. Thats the catch!
+###- 😄 Pronouns: ???
+###- ⚡ Fun fact: I'm on the internet too much
 -->
